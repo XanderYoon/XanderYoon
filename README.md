@@ -17,7 +17,7 @@
   
 🎯 Goals: AWS Solutions Architect Associate Certification <br>
 
-🏃‍➡️ Hobbies: Boxing, Running, Chess </p>
+🏃‍➡️ Hobbies: Boxing, Fitness, Chess </p>
 
 ###
 
