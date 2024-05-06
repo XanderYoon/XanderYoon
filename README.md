@@ -14,7 +14,7 @@
 🌆 I'm from Atlanta, Georgia
 ✨ Creating bugs since August 2018 <br>
 📚 I'm currently learning AWS and Computer Organization (basic computer hardware, machine language, assembly language, and C programming) <br>
-🎯 Goals: AWS Solutions Architecht Associate Certification, Complete ___ Project <br>
+🎯 Goals: AWS Solutions Architecht Associate Certification <br>
 🏃‍➡️ Hobbies: Boxing, Running, Chess </p>
 
 
@@ -38,6 +38,9 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40"/> </a>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>
+  <img width="12" />
+  
+  <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image_view_fullscreen" alt="tableau" height="40"/> </a> 
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo"  />
   <img width="12" />
