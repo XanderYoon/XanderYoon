@@ -40,7 +40,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>
   <img width="12" />
   
-  <img src="https://en.wikipedia.org/wiki/Tableau_Software#/media/File:Tableau_logo.svg" alt="tableau" height="40"/> </a> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" height="40"/> </a> 
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo"  />
   <img width="12" />
