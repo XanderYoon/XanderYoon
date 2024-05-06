@@ -11,21 +11,24 @@
 ###
 
 <p align="left">
-📍 Atlanta, Georgia
-
 📄 <a href="https://www.linkedin.com/in/alexander-yoon/">Resume</a>
+  
+📍 Atlanta, Georgia
   
 🎯 Goals: AWS Solutions Architecht Associate Certification <br>
 
 🏃‍➡️ Hobbies: Boxing, Running, Chess </p>
 
-
 ###
 
 <h2 align="left">Reach Me</h2>
+
+###
+
+<p align="left">
 📨 <a href="mailto:ayoon37@gatech.edu">ayoon37@gatech.edu</a> <br>
 
-🔗 <a href="https://www.linkedin.com/in/alexander-yoon/">Linkedin</a>
+🔗 <a href="https://www.linkedin.com/in/alexander-yoon/">Linkedin</a> </p>
 
 ###
 
