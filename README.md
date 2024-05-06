@@ -1,4 +1,4 @@
-![tableau-software](https://github.com/XanderYoon/XanderYoon/assets/146145881/3e10bf3f-a0f9-4beb-881b-f79d882101e5)<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -39,9 +39,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40"/>
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" height="40"/> </a> 
-  <img src="https://drive.google.com/file/d/1L_hKG7ma1LOsaH2tAmCp0DN26cm8MXYi/view?usp=sharing" alt="tableau" height="40"/> </a> 
-
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/tableau-icon.svg" alt="tableau" height="40"/> </a> 
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo"  />
   <img width="12" />
