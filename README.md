@@ -51,8 +51,6 @@
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="40"/> </a>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a>
-  <img width="12" />
 </div>
 
 ###
