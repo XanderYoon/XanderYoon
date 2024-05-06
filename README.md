@@ -20,7 +20,7 @@
 ###
 
 <h2 align="left">Reach Me</h2>
-📨 <a ayoon37@gatech.edu">ayoon37@gatech.edu</a>
+📨 <a href="ayoon37@gatech.edu">ayoon37@gatech.edu</a>
 
 ###
 
