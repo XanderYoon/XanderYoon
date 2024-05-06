@@ -15,7 +15,7 @@
   
 📍 Atlanta, Georgia
   
-🎯 Goals: AWS Solutions Architecht Associate Certification <br>
+🎯 Goals: AWS Solutions Architect Associate Certification <br>
 
 🏃‍➡️ Hobbies: Boxing, Running, Chess </p>
 
