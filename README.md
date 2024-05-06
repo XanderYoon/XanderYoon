@@ -28,7 +28,7 @@
 <p align="left">
 📨 <a href="mailto:ayoon37@gatech.edu">ayoon37@gatech.edu</a> <br>
 
-🔗 <a href="https://www.linkedin.com/in/alexander-yoon/">Linkedin</a> </p>
+🔗 <a href="https://www.linkedin.com/in/XanderYoon/">Linkedin</a> </p>
 
 ###
 
