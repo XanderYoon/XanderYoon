@@ -13,14 +13,14 @@
 <p align="left">
 🌆 I'm from Atlanta, Georgia
 ✨ Creating bugs since August 2018 <br>
-📚 I'm currently learning Computer Organization (basic computer hardware, machine language, assembly language, and C programming) <br>
+📚 I'm currently learning Computer Organization (basic computer hardware, machine language, assembly language, C programming) <br>
 🎯 Goals: AWS Solutions Architecht Associate Certification <br>
 🏃‍➡️ Hobbies: Boxing, Running, Chess </p>
 
 ###
 
 <h2 align="left">Reach Me</h2>
-📨 <a href="ayoon37@gatech.edu">ayoon37@gatech.edu</a>
+📨 <a href="mailto:ayoon37@gatech.edu">ayoon37@gatech.edu</a>
 
 ###
 
