@@ -2,22 +2,20 @@
 
 ###
 
-<p align="left"> I'm Xander Yoon and I'm a computer science student at the Georgia Institute of Technology. </p>
+<p align="left"> I'm Xander Yoon, a computer science student at the Georgia Institute of Technology. </p>
 
 ###
 
-<h2 align="left">About me</h2>
-- I'm from: Atlanta, Georgia
-- I'm passionate about: efficient algorithims, data science, and public transportation (trains)
-- My hobbies include: Running, Boxing, Weight Training, and Chess
+<h2 align="left">About me</h2>s
 
 ###
 
 <p align="left">
-✨ Creating bugs since: August 2018 <br>
-📚 I'm currently learning: AWS <br>
-🎯 Goals: AWS Solutions Architecht Associate Certification <br>
-🎲 Fun fact: My high school nickname in debate was "chromosome" because my initials are XY </p>
+🌆 I'm from Atlanta, Georgia
+✨ Creating bugs since August 2018 <br>
+📚 I'm currently learning AWS and Computer Organization (basic computer hardware, machine language, assembly language, and C programming) <br>
+🎯 Goals: AWS Solutions Architecht Associate Certification, Complete ___ Project <br>
+🏃‍➡️ Hobbies: Boxing, Running, Chess </p>
 
 
 ###
@@ -27,7 +25,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
