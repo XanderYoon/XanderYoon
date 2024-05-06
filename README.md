@@ -21,6 +21,7 @@
 
 <h2 align="left">Reach Me</h2>
 📨 <a href="mailto:ayoon37@gatech.edu">ayoon37@gatech.edu</a>
+🔗 <a href="https://www.linkedin.com/in/alexander-yoon/">Linkedin</a>
 
 ###
 
