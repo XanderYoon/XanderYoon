@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>s
+<h2 align="left">About me</h2>
 
 ###
 
@@ -25,9 +25,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="40"/> </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
