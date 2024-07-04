@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-📄 <a href="https://github.com/XanderYoon/Resume/blob/main/main.pdf">Resume</a>
+📄 <a href="https://github.com/XanderYoon/Resume/blob/main/XanderYoon_2026.pdf">Resume</a>
   
 📍 Atlanta, Georgia
   
